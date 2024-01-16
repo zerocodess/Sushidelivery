@@ -20,3 +20,6 @@ Welcome to the Sushidelivery repository! This is the codebase for my one-page we
 - **CSS:** Stylish and responsive design implemented with CSS to create an engaging and visually appealing user interface.
 
 Embark on a culinary adventure with Sushidelivery's immersive one-page experience – where every scroll reveals a new delight in the world of sushi. 🍣✨
+
+## Final Design
+![sushi](https://github.com/zerocodess/Sushidelivery/assets/150195885/dae805f8-0d51-44d2-a787-e47eb60fa20c)
